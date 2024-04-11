@@ -1,0 +1,45 @@
+_repo: Told-in-the-gardens-of-Araby-untranslated-until-now_73256
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Chandler, Izora C. (Izora Cecilia)
+    alias: Chandler, Izora Cecilia
+    deathdate: 1906
+    gutenberg_agent_id: '44242'
+    url: http://www.gutenberg.org/2009/agents/44242
+  - agent_name: Montgomery, Mary Williams
+    alias: Montgomery, Mary W.
+    birthdate: 1874
+    gutenberg_agent_id: '57003'
+    url: http://www.gutenberg.org/2009/agents/57003
+description: 'Translations from the Turkish.  Likely translated selections from a
+  Turkish collection whose title is rendered in English as: The crystal palace.'
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73256'
+  lccn: '05014450'
+language: en
+pgterms:marc904: https://archive.org/details/ToldInTheGardensofAraby/page/n3/mode/2up
+pgterms:marc905: 20230205111455chandler
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aNew York :$bEaton & Mains, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PJ'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Prelude -- The emerald roc -- The story of the beautiful girl who
+  had her wish -- The story of the beautiful one who did not have her desire -- Story
+  of the crying pomegranate and the laughing bear -- Story of the bird of affliction
+  -- Story of the water-carrier -- Story of the coffee-maker's apprentice -- Story
+  of the candy-maker's apprentice -- The crystal kiosk and the diamond ship.
+title: Told in the gardens of Araby (untranslated until now)
+url: http://www.gutenberg.org/ebooks/73256
