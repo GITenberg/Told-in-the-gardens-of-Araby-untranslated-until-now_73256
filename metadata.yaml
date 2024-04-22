@@ -12,8 +12,13 @@ contributor:
     birthdate: 1874
     gutenberg_agent_id: '57003'
     url: http://www.gutenberg.org/2009/agents/57003
+covers:
+- cover_type: archival
+  image_path: 73256-h/images/new-cover.jpg
 description: 'Translations from the Turkish.  Likely translated selections from a
   Turkish collection whose title is rendered in English as: The crystal palace.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73256#Told-in-the-gardens-of-Araby-untranslated-until-now
 gutenberg_issued: '2024-03-24'
 gutenberg_type: Text
 identifiers:
